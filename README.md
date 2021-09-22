@@ -1,3 +1,9 @@
+# KaoKore Faces  
+Blending FFHQ faces with KaoKore pre-modern Japanese art faces
+
+## KaoKore Dataset  
+<img src="https://github.com/laphisboy/stylegan2-pytorch/blob/master/images/kaokore.PNG" />  
+
 # Created blend_and_project.py  
 from projector.py  
 referenced:  
