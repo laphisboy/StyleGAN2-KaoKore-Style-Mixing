@@ -32,4 +32,5 @@ Model blend:
 
 # Future Fixes  
 Latent space is found by projection on blended model,  
-But it would have been better if projection was on FFHQ since the domains would match better.  
+But wwould it have been better if projection of FFHQ trained StyleGAN2?
+
